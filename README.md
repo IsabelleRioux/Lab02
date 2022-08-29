@@ -1,2 +1,2 @@
 # lab02
-Exercice sur github
+Exercice sur GitHub.
